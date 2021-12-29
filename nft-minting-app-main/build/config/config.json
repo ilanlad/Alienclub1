@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xB15504507166B637f8b52743C1c46288Ff4Cc019",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xb15504507166b637f8b52743c1c46288ff4cc019",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Alien Club",
+  "SYMBOL": "ACNFT",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/alien-club",
+  "SHOW_BACKGROUND": true
+}
